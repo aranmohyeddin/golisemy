@@ -24,8 +24,13 @@ Here we classify, organize, and summerize the papers we read
 <hr/>
 
 #### Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change
-**Keywords:** polysemy index application
+* 213 Citations, 288(ggl)
+* 70 Highly Influenced Papers
+* 140 Cite Background
+* 121 Cite Methods
+* 23 Cite Results
 
+**Keywords:** polysemy index application<br/>
 **Summary**<br/>
 <details><summary>BibTex</summary>
 <pre>@inproceedings{hamilton-etal-2016-diachronic,
@@ -47,8 +52,13 @@ Here we classify, organize, and summerize the papers we read
 <hr/>
 
 #### Linear Algebraic Structure of Word Senses, with Applications to Polysemy
-**Keywords:** Linear Algebra
+* 61 Citations, 65(ggl)
+* 11 Highly Influenced Papers
+* 41 Cite Background
+* 21 Cite Methods
+* 1 Cite Results
 
+**Keywords:** Linear Algebra<br/>
 **Summary**<br/>
 <details><summary>BibText</summary>
 <pre>@article{tacl_a_00034,
@@ -68,9 +78,11 @@ Here we classify, organize, and summerize the papers we read
 <hr/>
 
 #### Different Contexts Lead to Different Word Embeddings
-**Keywords:** neural network
+* 8(ggl)
 
-* Summary Separating context vector from core vector
+**Keywords:** neural networks<br/>
+**Summary**<br/>
+Separating context vector from core vector
 
 **Notes**
 
@@ -95,8 +107,9 @@ For what types of polysemy does this work well? Regular?
 <hr/>
 
 #### Geometry of Polysemy
-**Keywords:** Linear Algebra, classification
+* 7(ggl)
 
+**Keywords:** Linear Algebra, classification<br/>
 **Summary**<br/>
 <details><summary>BibText</summary>
 <pre>@article{DBLP:journals/corr/MuBV16,
@@ -119,8 +132,9 @@ For what types of polysemy does this work well? Regular?
 <hr/>
 
 #### A Word-Embedding-based Sense Index for Regular Polysemy Representation
-**Keywords:**:
+* 4(ggl)
 
+**Keywords:**:<br/>
 **Summary**<br/>
 <details><summary>BibText</summary>
 <pre>@inproceedings{del-tredici-bel-2015-word,
@@ -141,8 +155,9 @@ For what types of polysemy does this work well? Regular?
 <hr/>
 
 #### A Simple Approach to Learn Polysemous Word Embeddings
-**Keywords:**:
+* 5(ggl)
 
+**Keywords:**:<br/>
 **Summary**<br/>
 <details><summary>BibText</summary>
 <pre>@article{DBLP:journals/corr/SunRD17,
@@ -164,8 +179,11 @@ For what types of polysemy does this work well? Regular?
 <hr/>
 
 #### Predictable Meaning Shift: Some Linguistic Properties of Lexical Implication Rules
-**Keywords:** Linguistics, Regular polysemy
+* 96 Citations, 170(ggl)
+* 33 Cite Background
+* 2 Cite Results
 
+**Keywords:** Linguistics, Regular polysemy<br/>
 **Summary**<br/>
 <pre>1. container/containerful : cup
 2. animal/food            : lamb, chicken
@@ -193,8 +211,13 @@ k. substance/colour       : jade, amber
 <hr/>
 
 #### Regular polysemy: A distributional model
-**Keywords:**:
+* 22 Citations, 26(ggl)
+* 3 Highly Influenced Papers
+* 15 Cite Background
+* 10 Cite Methods
+* 1 Cite Results
 
+**Keywords:**:<br/>
 **Summary**<br/>
 <details><summary>BibText</summary>
 <pre>@inproceedings{Boleda2012RegularPA,
@@ -207,8 +230,9 @@ k. substance/colour       : jade, amber
 <hr/>
 
 #### Minimally Supervised Classification to Semantic Categories usingAutomatically Acquired Symmetric Patterns
-**Keywords:**:
+* 6(ggl)
 
+**Keywords:**:<br/>
 **Summary**<br/>
 <details><summary>BibText</summary>
 <pre>@inproceedings{Schwartz2014MinimallySC,
@@ -221,7 +245,9 @@ k. substance/colour       : jade, amber
 <hr/>
 
 #### Automatic lexical semantic classification of nouns
-**Keywords:**
+* 10(ggl)
+
+**Keywords:**<br/>
 **Summary**<br/>
 <details><summary>BibText</summary>
 <pre>@article{DBLP:journals/corr/abs-1303-1930,
@@ -243,8 +269,11 @@ k. substance/colour       : jade, amber
 <hr/>
 
 #### Lexicalised Systematic Polysemy in WordNet
-**Keywords:**: 
+* 38 Citations, 55(ggl)
+* 15 Cite Background
+* 8 Cite Methods
 
+**Keywords:**: <br/>
 **Summary**<br/>
 <details><summary>BibText</summary>
 <pre>@inproceedings{Peters2000LexicalisedSP,
@@ -258,8 +287,9 @@ k. substance/colour       : jade, amber
 <hr/>
 
 #### Regular Polysemy in WordNet
-**Keywords:**: Linear Algebra
+* 15(ggl)
 
+**Keywords:**: Linear Algebra<br/>
 **Summary**<br/>
 <details><summary>BibText</summary>
 <pre>@article{Barque2009RegularPI,
@@ -274,8 +304,12 @@ k. substance/colour       : jade, amber
 <hr/>
 
 #### A corpus-based account of regular polysemy: the case of context-sensitive adjectives
-**Keywords:**: 
+* 25 Citations, 41(ggl)
+* 2 Highly Influenced Papers
+* 14 Cite Background
+* 6 Cite Methods
 
+**Keywords:**: <br/>
 **Summary**<br/>
 <details><summary>BibText</summary>
 <pre>@inproceedings{Lapata:2001:CAR:1073336.1073345,
@@ -297,8 +331,9 @@ k. substance/colour       : jade, amber
 <hr/>
 
 #### A cascade approach for complex-type classification
-**Keywords:**: 
-
+* 2(ggl)
+    
+**Keywords:**: <br/>
 **Summary**<br/>
 <details><summary>BibText</summary>
 <pre>@inproceedings{Romeo2014ACA,
@@ -310,8 +345,46 @@ k. substance/colour       : jade, amber
 </details>
 <hr/>
 
+#### Choosing which to use? A study of distributional models for nominal lexical semantic classification
+* 4(ggl)
+
+**Keywords:**<br/>
+**Summary**<br/>
+<details><summary>BibText</summary>
+<pre>@inproceedings{Romeo2014ChoosingWT,
+  title={Choosing which to use? A study of distributional models for nominal lexical semantic classification},
+  author={Lauren Romeo and Gianluca Lebani and N{\'u}ria Bel and Alessandro Lenci},
+  booktitle={LREC},
+  year={2014}
+}</pre>
+</details>
+<hr/>
+
+#### Towards the automatic detection and identification of English puns
+* 17 Citations, 16(ggl)
+* 3 Highly Influenced Papers
+* 8 Cite Background
+* 5 Cite Methods
+
+**Keywords:**<br/>
+**Summary**<br/>
+<details><summary>BibText</summary>
+<pre>@inproceedings{Miller2016TowardsTA,
+  title={Towards the automatic detection and identification of English puns},
+  author={Tristan Miller and Mladen Turkovi{\'c}},
+  year={2016}
+}</pre>
+</details>
+<hr/>
+
 #### REGULAR POLYSEMY
-**Keywords:** Linguistics
+**Keywords:** Linguistics<br/>
+* 602(ggl)
+* 86 Citations
+* 15 Highly Influenced Papers
+* 68 Cite Background
+* 2 Cite Methods
+* 1 Cite Results
 
 **Summary**<br/>
 Apresjan uses this notion of concept lexicalisation as acriterion for distinguishing between regular and irregular polysemy:
@@ -336,15 +409,3 @@ Polysemy is called irregular if the semantic distinctionbetween ai and aj is not
 </details>
 <hr/>
 
-#### Choosing which to use? A study of distributional models for nominal lexical semantic classification
-**Keywords:**
-
-**Summary**<br/>
-<details><summary>BibText</summary>
-<pre>@inproceedings{Romeo2014ChoosingWT,
-  title={Choosing which to use? A study of distributional models for nominal lexical semantic classification},
-  author={Lauren Romeo and Gianluca Lebani and N{\'u}ria Bel and Alessandro Lenci},
-  booktitle={LREC},
-  year={2014}
-}</pre>
-</details>
