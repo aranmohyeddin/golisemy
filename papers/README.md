@@ -32,6 +32,31 @@ Here we classify, organize, and summerize the papers we read
 
 **Keywords:** polysemy index application<br/>
 **Summary**<br/>
+The goal is to find a quantitative measure for how the meaning of words change through 
+time, three word embeddings have been considered, PPMI, SVD, Skip-gram, several corpuses
+are given for different timespans. One is large with relatievly low quality, the other
+is clean but shorter. 
+
+The criteria for similarity of words is the
+The performance of these word embeddings is measured in two ways, firstly we consider 
+certain words such as "gay", "awfull", and "broadcast" for which we know how their 
+meaning has changed through time and see if that can be infered from the behavior of 
+the embeddings. Secondly we find words that have potentially had a significant shift in
+their meaning through time by comparing how the vectors have changed and then check
+history records to see if those words have actually changed meaning in the way predicted
+by the model.
+
+PPMI didn't prove to be very effective, SVD was good for one corpus, Skip-gram for the
+other.
+
+Finally, two claims have been mained:
+* There is a linear association between log(frequency) of word usage with the rate of
+    sense shift which is defined by integrating the gradient of changes of the vector
+    over time.
+* Polysemy is defined as: 
+"For each two occurances w0 and w1 of a given word in the corpus, how often where the
+words in w0's context used in the context of the words in w1's context and vice versa."
+
 <details><summary>BibTex</summary>
 <pre>@inproceedings{hamilton-etal-2016-diachronic,
     title = "Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change",
@@ -60,6 +85,13 @@ Here we classify, organize, and summerize the papers we read
 
 **Keywords:** Linear Algebra<br/>
 **Summary**<br/>
+The claim is that [I didn't exactly understand the claim, it's better if you write it
+yourself]
+
+Then an assumption is made [It's also better you write this, try to copy paste from the
+actual paper if you need to, but don't be too verbose, summerize the section of the
+paper if it's too verbose.] Gaussian walk model.
+
 <details><summary>BibText</summary>
 <pre>@article{tacl_a_00034,
     author = {Arora, Sanjeev and Li, Yuanzhi and Liang, Yingyu and Ma, Tengyu and Risteski, Andrej},
@@ -366,7 +398,7 @@ k. substance/colour       : jade, amber
 * 8 Cite Background
 * 5 Cite Methods
 
-**Keywords:**<br/>
+**Keywords:** review<br/>
 **Summary**<br/>
 <details><summary>BibText</summary>
 <pre>@inproceedings{Miller2016TowardsTA,
@@ -374,6 +406,98 @@ k. substance/colour       : jade, amber
   author={Tristan Miller and Mladen Turkovi{\'c}},
   year={2016}
 }</pre>
+</details>
+<hr/>
+
+#### Clustering Polysemic Subcategorization Frame Distributions Semantically
+* 84 Citations
+* 8 Highly Influenced Papers
+* 43 Cite Background
+* 35 Cite Methods
+* 5 Cite Results
+
+**Keywords:**<br/>
+**Summary**<br/>
+<details><summary>BibText</summary>
+<pre>@inproceedings{Korhonen2003ClusteringPS,
+  title={Clustering Polysemic Subcategorization Frame Distributions Semantically},
+  author={Anna Korhonen and Yuval Krymolowski and Zvika Marx},
+  booktitle={ACL},
+  year={2003}
+}</pre>
+</details>
+<hr/>
+
+#### Embedding Words and Senses Together via Joint Knowledge-Enhanced Training
+* 35 Citations
+* 10 Highly Influenced Papers
+* 25 Cite Background
+* 7 Cite Methods
+* 5 Cite Results
+
+**Keywords:**<br/>
+**Summary**<br/>
+<details><summary>BibText</summary>
+<pre>@inproceedings{Mancini2016EmbeddingWA,
+  title={Embedding Words and Senses Together via Joint Knowledge-Enhanced Training},
+  author={Massimiliano Mancini and Jos{\'e} Camacho-Collados and Ignacio Iacobacci and Roberto Navigli},
+  booktitle={CoNLL},
+  year={2016}
+}</pre>
+</details>
+<hr/>
+
+#### Lexical Meaning in Context - A Web of Words
+* 116 Citations
+* 22 Highly Influenced Papers
+* 64 Cite Background
+* 13 Cite Methods
+* 1 Cite Results
+
+**Keywords:**<br/>
+**Summary**<br/>
+<details><summary>BibText</summary>
+<pre>@inproceedings{Asher2011LexicalMI,
+  title={Lexical Meaning in Context - A Web of Words},
+  author={Nicholas Asher},
+  year={2011}
+}</pre>
+</details>
+<hr/>
+
+#### The Representation of Polysemous Words
+* 105 Citations
+* 18 Highly Influenced Papers
+* 83 Cite Background
+* 17 Cite Methods
+* 17 Cite Results
+
+**Keywords:**<br/>
+**Summary**<br/>
+<details><summary>BibText</summary>
+<pre>@inproceedings{Klein2001TheRO,
+  title={The Representation of Polysemous Words},
+  author={Devorah Emily Klein and Gregory L. Murphy},
+  year={2001}
+}</pre>
+</details>
+<hr/>
+
+####
+
+**Keywords:**<br/>
+**Summary**<br/>
+<details><summary>BibText</summary>
+<pre></pre>
+</details>
+<hr/>
+
+####
+
+**Keywords:**<br/>
+**Summary**<br/>
+<details><summary>BibText</summary>
+<pre></pre>
 </details>
 <hr/>
 

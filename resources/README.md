@@ -12,8 +12,7 @@ short description of how they were used
 <hr/>
 
 #### Gensim
-**Keywords:** Vector Embedding of Words
-
+**Keywords:** Vector Embedding of Words<br/>
 **Summary**<br/>
 We have used the word embedding and trained weights of this library in the project.
 <details><summary>BibTex</summary>
@@ -35,8 +34,7 @@ We have used the word embedding and trained weights of this library in the proje
 <hr/>
 
 #### WordNet
-**Keywords:** Vector Embedding of Words
-
+**Keywords:** Vector Embedding of Words<br/>
 **Summary**<br/>
 We have used the WordNet core standoff file as our initial source for the number of
 senses each word has.
@@ -63,8 +61,7 @@ senses each word has.
 <hr/>
 
 #### scikit-learn
-**Keywords:** k-means
-
+**Keywords:** k-means<br/>
 **Summary**<br/>
 We have used the python implementation of the k-means algorithm from this library
 <details><summary>BibTex</summary>
@@ -82,6 +79,15 @@ We have used the python implementation of the k-means algorithm from this librar
 </details>
 <hr/>
 
+#### Wikipedia dumps
+**Keywords:** dataset, corpus<br/>
+**Notes**<br/>
+It seems like wikipedia is filled with technical terms and names, hence has a low quality.
+We initially used [this dump](https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles1.xml-p10p30302.bz2), 173MB download, 296MB extracted
+ * [this](http://medialab.di.unipi.it/wiki/Wikipedia_Extractor) script was used for extracting the text from the dumps.
+
+<hr/>
 
 ### A list of resources that seem useful, for future reference.
- * [moby thesaurus dataset](ftp://svr-ftp.eng.cam.ac.uk/pub/comp.speech/dictionaries/moby/)
+* [moby thesaurus dataset](ftp://svr-ftp.eng.cam.ac.uk/pub/comp.speech/dictionaries/moby/)
+* [PTB dataset](https://corochann.com/penn-tree-bank-ptb-dataset-introduction-1456.html)
