@@ -472,8 +472,10 @@ k. substance/colour       : jade, amber
 * 17 Cite Methods
 * 17 Cite Results
 
-**Keywords:**<br/>
+**Keywords:** Psycholinguistics, psychology<br/>
 **Summary**<br/>
+If we were to hear of a new species of plant called a delgar, we could say both “There is a delgar growing in my yard” (individual plant) and “This pen is made out of delgar” (the substance derived from that plant). Thus, these forms of polysemy are highly productive, and they are used quite easily when new words enter the lexicon (Murphy, 1997). For example, the word book can be used to refer both to a physical object containing a text and to the content of that text. The same form of polysemy is present in recently invented words for new information-storage devices such as videotape, CD, and DVD; for example, That CD is cracked (object) and That CD is brilliant (content of the CD).
+Given the differences just described between polysemy and homonymy, it is obviously critical to keep these two phenomena distinct. Polysemy is the normal, expected presence of related senses in a word, such as an object and the substance making up that object, and homonymy is the unpredictable coincidence of two different words having the same name.
 <details><summary>BibText</summary>
 <pre>@inproceedings{Klein2001TheRO,
   title={The Representation of Polysemous Words},

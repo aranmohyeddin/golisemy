@@ -1,0 +1,39 @@
+Homonymy:
+bank: financial institution/side of a river
+polish: a nationality/nail polish/shoe polish
+rock: rock music/solid mineral
+
+
+Polysemy:
+[1]{{{
+rock: solid mineral/a strong/reliable/hard person or thing
+window: (a) window was broken. (= 'window glass') (b) The window was boarded up.  (='window opening') 
+news paper: (a) The newspaper weighs five pounds. (= 'publication') (b) The newspaper fired John. (= 'publisher') 
+chicken: (a) The chicken pecked the ground. (= 'bird') (b) We ate chicken in bean sauce. (= 'meat') 
+chair: (a) The chair was broken. (= 'chair token') (b) The chair was common in nineteenth-century parlors. (= 'chair type') 
+book: book copy/book content
+radio: medium/radio set
+france: nation/region
+game: (a) The game is hard to learn. (='rules') (b) The game lasted an hour. (= 'activity') 
+vanity: (a) Vanity is a vice. (= 'the quality of being vain') (b) His vanity surprised my friends. (= 'the extent of his vanity')
+}}}
+[2]{{{
+paper: substance/a blank sheet of that substance, a daily publication, article printed on that substance
+}}}
+
+
+
+systematic polysemy:
+language/nationality
+fruit/color
+food/animal
+[2]{{{
+object/substance: oak
+object/representation of that object
+type/token
+text/object containint that text
+}}}
+
+references:
+1: The non-uniqueness of semantic solutions: Polysemy (Nunberg)
+2: The Representation of Polysemous Words
