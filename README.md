@@ -13,6 +13,16 @@ This is the github repository for organizing and tracking our research into poly
 * should we fit the matrix ourselves or should we use the formula from the paper?
 
 ## Roadmap
+### pull-class -> k-learn -> regular polysemy discovery
+ * we run pull-class for all words in a single iteration over data, then we do the
+classification for all these words. 
+ * Then we modify the words of the corpus to chick_1 ... chick_n based on these classes
+ * Then we calculate the vectors from the most prevalent meaning of each word to top 5
+     most common meanings. So we have 5 vectors for each word. Then we put all these
+     vectors for all words in a pull and classify them. Each class will hopefully
+     represent the vector for a certain regular polysemy, e.g. animal to food.
+
+
 * We come up with a criteria for polysemy using the current datasets that we have for word definitions, there are some very good datasets such as wordnet for this, specially for common words. We might be able to design a neural network that would be able to predict the number of definitions for top words and then we could use that to improve the definitions of other words etc. We will levarage the complrehensive information we have about common words to come up with a tool that would help us improve our definitions of less common words.
 * We can use the previous method to build on the "Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change" paper.
 
